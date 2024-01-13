@@ -26,6 +26,11 @@
 <h1>My Stats</h1>
 <p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikh-Abubaker&show_icons=true&locale=en&layout=compact" alt="Sheikh-Abubaker" /></p>
 
-<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Sheikh-Abubaker&show_icons=true&locale=en" alt="Sheikh-Abubaker" /></p>
+<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Sheikh-Abubaker&show=prs_merged&show_icons=true&locale=en" alt="Sheikh-Abubaker" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Abubaker&" alt="Sheikh-Abubaker" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Abubaker&" alt="Sheikh-Abubaker" />
+
+
+
+
+</p>
