@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning *DevOps, DSA, JAVA*
+- 🌱 I’m currently learning *DevOps, DSA, JAVA, GO*
 
 - 👯 I’m looking to collaborate on [Github](https://github.com/Sheikh-Abubaker)
 
