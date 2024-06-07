@@ -26,11 +26,11 @@
 </p>
 
 <h1>My Stats</h1>
-<p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikh-Abubaker&show_icons=true&locale=en&layout=compact" alt="Sheikh-Abubaker" /></p>
+<p><img align="left" width=38% src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikh-Abubaker&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="Sheikh-Abubaker" /></p>
 
-<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Sheikh-Abubaker&show=prs_merged&show_icons=true&locale=en" alt="Sheikh-Abubaker" /></p>
+<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=Sheikh-Abubaker&theme=vision-friendly-dark&show=prs_merged&show_icons=true&locale=en" alt="Sheikh-Abubaker" /></p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Abubaker&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Abubaker&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
 
 
 
