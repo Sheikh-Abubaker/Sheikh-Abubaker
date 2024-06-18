@@ -32,6 +32,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sheikh-Abubaker&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
 
+![Profile views](https://komarev.com/ghpvc/?username=Sheikh-Abubaker)
+
+
 
 
 
