@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abubaker</h1>
-<h3 align="center"> Maintainer Maintainer @ Grafana labs | Grafana Champion | Open Source Contributor | DevOps Engineer </h3>
+<h3 align="center"> Maintainer @ Grafana labs | Grafana Champion | Open Source Contributor | DevOps Engineer </h3>
 
 
 
