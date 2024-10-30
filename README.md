@@ -11,7 +11,7 @@
 
 - 📫 How to reach me *sheikhabubaker761@gmail.com*
 
-# HacktoberFest 2023
+# HacktoberFest
 [![An image of @sheikhabubaker's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sheikhabubaker)](https://holopin.io/@sheikhabubaker)
 
 <h3 align="left">Connect with me:</h3>
