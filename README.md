@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abubaker</h1>
-<h3 align="center"> Grafana Helm Charts Maintainer | Grafana Champion | Open Source Contributor | Platform Engineer </h3>
+<h3 align="center"> Grafana Helm Charts Maintainer | Grafana Champion | Platform Engineer | Open Source Contributor </h3>
 
 ![image](https://github.com/user-attachments/assets/5a945d42-ed23-4dac-b8ef-5bc737d1a428)
 
