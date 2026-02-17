@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mohammad Abubaker</h1>
-<h3 align="center"> Grafana Helm Charts Maintainer | Grafana Champion | Platform Engineer | Open Source Contributor </h3>
+<h3 align="center"> Grafana Helm Charts Maintainer | CKAD | Grafana Champion | Platform Engineer | Open Source Contributor </h3>
 
+<p align="center">
+  <a href="https://www.credly.com/badges/d587e404-b754-443b-9084-59eaa45cee99/public_url">
+    <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="200"/>
+  </a>
+  <p align="center">
+  <strong>Certified Kubernetes Application Developer (CKAD) — 95%</strong>
+</p>
+</p>
+
+# Awards
 ![image](https://github.com/user-attachments/assets/5a945d42-ed23-4dac-b8ef-5bc737d1a428)
 
 
