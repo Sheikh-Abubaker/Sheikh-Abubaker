@@ -5,8 +5,11 @@
   <a href="https://www.credly.com/badges/d587e404-b754-443b-9084-59eaa45cee99/public_url">
     <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="200"/>
   </a>
-  <p align="center">
-  <strong>Certified Kubernetes Application Developer (CKAD) — 95%</strong>
+  <a href="https://www.credly.com/badges/c7210ba7-cf3e-4446-9426-0f0781bbad4e/public_url">
+    <img src="https://images.credly.com/size/340x340/images/fb33a1a5-e76d-4c2d-9063-b6ca1c869de6/blob" width="200"/>
+  </a>
+  <!-- <p align="center">
+  <strong>(CKAD) — 95%</strong> -->
 </p>
 </p>
 
